@@ -1,0 +1,37 @@
+#outputBox {
+    float: right;
+    background-color: darkgrey;
+    height: 270px;
+    margin-right: 2%;
+}
+
+#inputBox {
+    height: 300px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+    margin-left: 2%;
+}
+
+#submitBtn {
+    margin-left: 27%;
+    height: 30px;
+    width: 20%;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
+#submitBtn:hover {
+    background-color: gold;
+}
+
+.container {
+    border-color: black;
+}
+.box {
+    padding: 20px 12px;
+    border-radius: 4px;
+    width: 45%;
+}
